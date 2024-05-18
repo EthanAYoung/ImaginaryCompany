@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWS2ZMfvs/Q1+eoHjhICwZMXUw7KIG4DK4Nxw8ajgzWKji/Q4ZFLPY+4UIHmnbTzX6XElUOoNhwy7mPG+NGoSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ethan\\source\\repos\\TheImaginaryCompany\\TheImaginaryCompany.Server\\TheImaginaryCompany.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.0\\microsoft.aspnetcore.spaproxy.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ethan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

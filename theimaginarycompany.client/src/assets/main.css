@@ -1,0 +1,50 @@
+@import './base.css';
+
+#app {
+    width: 100%;
+    height: auto;
+    vertical-align: top;
+    margin: 0 auto;
+    font-weight: normal;
+}
+
+body {
+    --color-background: #41B883;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+a,
+.green {
+    text-decoration: none;
+    color: hsla(160, 100%, 37%, 1);
+    transition: 0.4s;
+    padding: 3px;
+}
+
+@media (hover: hover) {
+    a:hover {
+        background-color: hsla(160, 100%, 37%, 0.2);
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        display: flex;
+        height: 100%;
+    }
+
+    #app {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.new-h3-block {
+    padding-top: 20px;
+}
+
+.new-h4-block {
+    padding-top: 10px;
+}
