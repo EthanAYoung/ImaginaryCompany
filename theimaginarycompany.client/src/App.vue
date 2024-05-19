@@ -1,5 +1,5 @@
 <script setup>
-    import HelloWorld from './components/HelloWorld.vue'
+    import HomePageBody from './components/HomePageBody.vue'
 </script>
 
 <template>
@@ -12,7 +12,7 @@
     </header>
     <div class="content-wrapper">
         <div class="wrapper">
-            <HelloWorld msg="You did it!" />
+            <HomePageBody msg="You did it!" />
         </div>
     </div>
     <div class="copyright-text">
